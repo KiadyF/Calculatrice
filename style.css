@@ -58,3 +58,10 @@ button {
 button:hover {
     border: 2px solid rgb(200, 205, 207);
 }
+
+.ecran {
+    display: flex;
+    font-size: 32px;
+    align-items: end;
+    justify-content: end;
+}
